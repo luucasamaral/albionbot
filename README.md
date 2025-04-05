@@ -1,6 +1,6 @@
-# 🤖 AlbonBot
+# 🤖 Albion Bot
 
-AlbonBot é um bot de Discord desenvolvido com amor por fãs de Albion Online.  
+Albion Bot é um bot de Discord desenvolvido com amor por fãs de Albion Online.  
 Ele permite consultar rapidamente informações de jogadores diretamente pelo jogo, com dados atualizados, organizados e de forma divertida!
 
 ---
@@ -18,7 +18,7 @@ Ele permite consultar rapidamente informações de jogadores diretamente pelo jo
 
 1. Clone o projeto
 ```bash
-git clone https://github.com/seu-user/albonbot.git
+git clone https://github.com/seu-user/albinbot.git
 cd albonbot
 ```
 
